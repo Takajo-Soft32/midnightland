@@ -12,9 +12,12 @@
   </div>
 
   <ul>
-    <li><a id="home" href="#home">Home</a></li>
-    <li><a id="about" href="#about">About</a></li>
-    <li><a id="contact" href="#contact">Contact</a></li>
+    <li><a id="アトラクション" href="https://takajo-soft19.github.io/midnightland/attraction">アトラクション</a></li>
+    <li><a id="チケット" href="https://takajo-soft19.github.io/midnightland/ticket">チケット</a></li>
+    <li><a id="フロアガイド" href="https://takajo-soft19.github.io/midnightland/floor">フロアガイド</a></li>
+  　<li><a id="フード＆グッズ" href="https://takajo-soft19.github.io/midnightland/foodgoods">フード＆グッズ</a></li>
+    <li><a id="アクセス" href="https://takajo-soft19.github.io/midnightland/access">アクセス</a></li>
+    <li><a id="スケジュール" href="https://takajo-soft19.github.io/midnightland/Schedule">スケジュール</a></li>
   </ul>
 
   </label>
