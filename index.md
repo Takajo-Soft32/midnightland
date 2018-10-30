@@ -15,9 +15,8 @@
   </ul>
 
   </label>
-</html>
-
-<script>
+  
+  <script>
     *, *:before, *:after {
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
@@ -99,6 +98,11 @@
 </script>
   
   
+  
+  
+</html>
+
+
 
 ## mainPage
 
