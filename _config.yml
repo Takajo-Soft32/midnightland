@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-caymanz
+
+hight:10px
 
 github:
   is_project_page: false
