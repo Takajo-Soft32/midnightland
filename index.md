@@ -1,5 +1,6 @@
 <html>
   
+  <link rel="stylesheet" type="text/css" href="menu.css">
   
   <input type="checkbox" id="cp_navimenuid">
   <label class="menu" for="cp_navimenuid">
