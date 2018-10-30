@@ -1,3 +1,8 @@
+<html>
+  aaaaa<br>
+</html>
+
+
 ## mainPage
 
 [アトラクション](https://takajo-soft19.github.io/midnightland/attraction)
